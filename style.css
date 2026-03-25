@@ -1,0 +1,42 @@
+ body{
+        font-family: "Oswald";
+        background:linear-gradient(greenyellow,chartreuse,lime,green);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+    }
+    p{
+   color:lime;
+font-size:30px;
+text-shadow: 2px 2px 1.5px forestgreen;        
+    }
+
+u{
+     color:greenyellow;
+font-size:30px;
+text-shadow: 2px 2px 1.5px forestgreen;        
+ 
+}
+a{
+text-decoration:none;
+}
+    h1{
+        font-family:"Bungee";
+        color:darkgreen;
+font-size:50px;
+text-shadow: 4px 4px 3px forestgreen;
+    }
+    .ejercicio{
+border:dotted 5px black;
+opacity:50%;
+background-color: darkgreen;
+    }
+iframe{
+border:dotted black 5px;
+overflow:hidden;
+}
+h3{
+    color:rgb(0, 123, 0);
+font-size:30px;
+background-color: lime;
+border:dotted darkgreen 2px;
+}
